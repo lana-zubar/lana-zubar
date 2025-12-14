@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Lana 👋
 
-<!--
-**lana-zubar/lana-zubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science student at Queen Mary University of London  
+🛡️ Interested in Cybersecurity & AI  
 
-Here are some ideas to get you started:
+### Skills
+- Python
+- Java
+- SQL
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🖥️ Java coursework projects
+
+### Goals
+- Internship / placement in Cybersecurity
+- Build strong foundations in systems and security
+
+📫 Contact: svitlana.zubar25@gmail.com
