@@ -10,7 +10,7 @@
 - HTML, CSS
 
 ### Projects
-- 🖥️ Java coursework projects
+- 🖥️ Java coursework project
 
 ### Goals
 - Internship / placement in Cybersecurity
